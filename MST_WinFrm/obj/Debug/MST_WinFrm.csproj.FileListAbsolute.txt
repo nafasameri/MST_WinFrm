@@ -1,0 +1,19 @@
+E:\Projects VS\MST_WinFrm\MST_WinFrm\bin\Debug\MST_WinFrm.exe.config
+E:\Projects VS\MST_WinFrm\MST_WinFrm\bin\Debug\MST_WinFrm.exe
+E:\Projects VS\MST_WinFrm\MST_WinFrm\bin\Debug\MST_WinFrm.pdb
+E:\Projects VS\MST_WinFrm\MST_WinFrm\obj\Debug\MST_WinFrm.csprojResolveAssemblyReference.cache
+E:\Projects VS\MST_WinFrm\MST_WinFrm\obj\Debug\MST_WinFrm.Properties.Resources.resources
+E:\Projects VS\MST_WinFrm\MST_WinFrm\obj\Debug\MST_WinFrm.csproj.GenerateResource.Cache
+E:\Projects VS\MST_WinFrm\MST_WinFrm\obj\Debug\MST_WinFrm.exe
+E:\Projects VS\MST_WinFrm\MST_WinFrm\obj\Debug\MST_WinFrm.pdb
+E:\Projects VS\MST_WinFrm\MST_WinFrm\obj\Debug\MST_WinFrm.frmMST.resources
+D:\WebSite Developer & programming\Projects VS_2015\Design Algorithm\MST_WinFrm\MST_WinFrm\bin\Debug\MST_WinFrm.exe.config
+D:\WebSite Developer & programming\Projects VS_2015\Design Algorithm\MST_WinFrm\MST_WinFrm\bin\Debug\MST_WinFrm.exe
+D:\WebSite Developer & programming\Projects VS_2015\Design Algorithm\MST_WinFrm\MST_WinFrm\bin\Debug\MST_WinFrm.pdb
+D:\WebSite Developer & programming\Projects VS_2015\Design Algorithm\MST_WinFrm\MST_WinFrm\obj\Debug\MST_WinFrm.csprojAssemblyReference.cache
+D:\WebSite Developer & programming\Projects VS_2015\Design Algorithm\MST_WinFrm\MST_WinFrm\obj\Debug\MST_WinFrm.frmMST.resources
+D:\WebSite Developer & programming\Projects VS_2015\Design Algorithm\MST_WinFrm\MST_WinFrm\obj\Debug\MST_WinFrm.Properties.Resources.resources
+D:\WebSite Developer & programming\Projects VS_2015\Design Algorithm\MST_WinFrm\MST_WinFrm\obj\Debug\MST_WinFrm.csproj.GenerateResource.cache
+D:\WebSite Developer & programming\Projects VS_2015\Design Algorithm\MST_WinFrm\MST_WinFrm\obj\Debug\MST_WinFrm.csproj.CoreCompileInputs.cache
+D:\WebSite Developer & programming\Projects VS_2015\Design Algorithm\MST_WinFrm\MST_WinFrm\obj\Debug\MST_WinFrm.exe
+D:\WebSite Developer & programming\Projects VS_2015\Design Algorithm\MST_WinFrm\MST_WinFrm\obj\Debug\MST_WinFrm.pdb
